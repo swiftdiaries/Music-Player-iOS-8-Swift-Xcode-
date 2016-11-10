@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "2fdd5b9b490f20011af8365e2c75ad13"
+inputs: 
+- "/Users/Adhita/Documents/iOS_Apps/Just the way you Are/Just the way you Are/ViewController.swift"
+- "/Users/Adhita/Documents/iOS_Apps/Just the way you Are/Just the way you Are/AppDelegate.swift"
